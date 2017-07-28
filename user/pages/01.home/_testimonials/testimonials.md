@@ -35,6 +35,10 @@ testimonials:
         quote: 'Le gestionnaire de sources le plus utilisé et le plus populaire. Je ne pourrai clairement pas m''en passer et c''est tant mieux !'
         author: null
     -
+        avatar: gulp.png
+        quote: 'Gulp, comme Grunt, est un outil de gestion de ressource. Indispensable aujourd''hui pour construire une stack front-end évoluée. Puissant simple et efficace.'
+        author: null
+    -
         avatar: sass.png
         quote: 'Le preprocessing CSS est pour moi un enjeu Front end majeur lors de développement de site d''envergure. Utiliser un framework SASS pérénise et facilite le développement par 10.'
         author: null
