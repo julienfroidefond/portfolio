@@ -5,7 +5,7 @@ mailer:
   engine: mail
   smtp:
     server: smtp.mailgun.org
-    port: 25
+    port: 587
     encryption: none
     user: 'postmaster@sandbox4071c121181a409b988e28c1c165a398.mailgun.org'
     password: '1435a671e587c7a8f7cdb21edd6b2405'
