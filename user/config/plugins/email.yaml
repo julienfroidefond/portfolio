@@ -4,10 +4,10 @@ to: julienfroidefond@gmail.com
 mailer:
   engine: smtp
   smtp:
-    server: smtp.mailgun.org
+    server: smtp.sendgrid.net
     port: 587
     encryption: none
-    user: 'postmaster@sandbox4071c121181a409b988e28c1c165a398.mailgun.org'
-    password: '1435a671e587c7a8f7cdb21edd6b2405'
+    user: 'apikey'
+    password: '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'
   sendmail:
     bin: '/usr/sbin/sendmail'
