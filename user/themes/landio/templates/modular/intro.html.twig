@@ -1,0 +1,47 @@
+<section class="section-intro bg-faded text-center hidden-overflow">
+    <div class="container">
+        {% if page.header.title  %}
+            <h3 class="wp wp-1">{{ page.header.title }}</h3>
+        {% endif %}
+        {% if page.header.description  %}
+            <p class="lead wp wp-2">
+            {{ page.header.description }}
+            
+	        {% if page.header.techs %}
+	        	<br/><br/>
+                {% for row in page.header.techs|batch(4) %}
+                    <div>
+        	            {% for item in row %}
+        	            	<span class="label label-info">{{item}}</span> 
+                        {% endfor %}
+                    </div>
+                {% endfor %}
+	        {% endif %}
+            </p>
+        {% endif %}
+        {% if page.header.image  %}
+            <img class="img-responsive wp wp-3 animated fadeInUp" src="{{ page.media[page.header.image].url }}">
+        {% endif %}
+
+        {% if page.header.images  %}
+            <div id="carousel-content" class="carousel slide" data-ride="carousel" data-interval="0">
+              <div class="carousel-inner" role="listbox">
+                {% for testimonial in page.header.images %}
+                <div class="carousel-item {% if loop.first %}active{% endif %}">
+                    <img style="max-height:400px;margin: auto;" src="{{ page.media.images[testimonial].url }}" class="img-responsive">
+                </div>
+                {% endfor %}
+              </div>
+              <ol class="carousel-indicators">
+                {% for testimonial in page.header.images %}
+                <li {% if loop.first %}class="active"{% endif %} data-target="#carousel-content" data-slide-to="{{ loop.index0 }}">
+                </li>
+                {% endfor %}
+              </ol>
+            </div>
+          </div>
+        {% endif %}
+        {{ page.content }}
+
+    </div>
+</section>

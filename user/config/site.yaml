@@ -1,0 +1,50 @@
+title: JFR
+default_lang: fr
+author:
+  name: 'Julien Froidefond'
+  email: julienfroidefond@gmail.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'My description in settings'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
+logo:
+  icon: null
+  text: JFR
+  url: null
+userlinks:
+  -
+    text: 'Sample link'
+    url: '#'
+  -
+    text: 'Another Sample link'
+    url: '#'
+header:
+  title: 'Julien <b>Froidefond</b>'
+  description: 'Front-end Architect <em>&&</em> Web developer.'
+  buttons:
+    -
+      text: 'Télécharger CV'
+      url: '/CV_JFR.pdf'
+      icon: 
+footer:
+  links:
+    -
+      text: 'Terms &amp; Conditions'
+      url: '#'
+    -
+      text: Legals
+      url: '#'
+socialcount:
+  url: 
+  facebook_url: 
+  twitter_url: 
+  linkedin_url: 
+copyright: 'Julien Froidefond'

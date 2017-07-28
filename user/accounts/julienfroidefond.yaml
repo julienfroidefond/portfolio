@@ -1,0 +1,11 @@
+email: julienfroidefond@gmail.com
+fullname: 'Julien Froidefond'
+title: Admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$fR7LRsb/QtMMXBK4bFlRteFdQ1IzOAN3rAfzDKrx3pI4ncECco3vm
