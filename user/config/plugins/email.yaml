@@ -1,7 +1,7 @@
 enabled: true
 from: julienfroidefond@gmail.com
 mailer:
-  engine: mail
+  engine: smtp
   smtp:
     server: smtp.mailgun.org
     port: 587
