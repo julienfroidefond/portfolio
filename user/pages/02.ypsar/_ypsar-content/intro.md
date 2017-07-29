@@ -1,6 +1,6 @@
 ---
 title: Ypsar
-description: 'Ypsar est un réseau social favorisant les rencontres autour de l’évènementiel.'
+description: 'Ypsar est un <b>réseau social</b> favorisant les rencontres autour de l’évènementiel.<br/> On retrouvera dans ce site toutes les caractéristiques d''un réseau social:<br>chat, commentaire, profil, like, etc.'
 hidemenu: true
 techs:
 	- git
