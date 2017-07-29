@@ -4,15 +4,15 @@ hidemenu: true
 testimonials:
     -
         avatar: js.png
-        quote: 'Autant back end que front end, l''aspect non-bloquant de ce language a un charme incontestable. Grace à ES6, l''évolution des navigateurs, et Node, l''avenir du JS est assurée'
+        quote: 'Autant back end que front end, l''aspect non-bloquant de ce language a un charme incontestable. Grace à ES6, l''évolution des navigateurs, et Node, l''avenir du JS est assuré.'
         author: null
     -
         avatar: angular.png
-        quote: 'Si un framework MVVM a su faire ses preuves c''est Angular. La communauté est une de ses forces incontestable. Il est dur de s''en passer quand on a passé le pas.' 
+        quote: 'Si un framework MVVM a su faire ses preuves, c''est Angular. La communauté est une de ses forces incontestable. Un de mes choix courants d''une librairie JS.' 
         author: null
     -
         avatar: sf.png
-        quote: 'THE framework php. MVC est sa force, mais sa subtilité et sa facilité sont de loin ses atouts majeur.'
+        quote: 'LE framework php. MVC est sa force, mais sa subtilité et sa facilité sont de loin ses atouts majeur.'
         author: null
     -
         avatar: nodejs.png
@@ -28,7 +28,7 @@ testimonials:
         author: null
     -
         avatar: PM2.png
-        quote: 'Le déploiement et la gestion des processus NodeJs est une problématique Devops. Mais impossible de ne pas mentionner PM2. Cluster pour Stateless pour répartition ulta simple, monitoring, etc; TOUT y est en une minute.'
+        quote: 'Le déploiement et la gestion des processus NodeJs est une problématique Devops. Mais impossible de ne pas mentionner PM2. En cluster pour app Stateless pour une répartition processeur ulta simple, monitoring, etc; tout y est en une minute.'
         author: null
     -
         avatar: git.png

@@ -5,6 +5,8 @@ hidemenu: true
 techs:
 	- gitflow
 	- MeteorJs
+	- Angular
+	- Jade
 	- Gestion de projet
 	- Innovation
 image: wax.jpg

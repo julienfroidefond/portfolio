@@ -5,7 +5,7 @@ features:
         title: Modern
         icon: pen
         subtitle: Web-development
-        text: 'Je pense que nous avons déjà aujourd''hui tous les outils pour créer une stack extraordinaire, mais demain nous ouvre la voie à toujours mieux et toujours plus fort.'
+        text: 'Gulp/Grunt, Webpack, NPM, Babel, Typescript, Sass, autant d''outils Front-end aujourd''hui accessible et autant de possibilités de créer un processus totalement adapté et sur-mesure. Toujours mieux, toujours plus loin.'
     -
         title: JS
         icon: thunderbolt
@@ -15,5 +15,5 @@ features:
         title: Passionate
         icon: heart
         subtitle: 'Sociable and innovation'
-        text: 'Ma passion est toujours et restera cette incroyable évolution technologique que nous vivons aujourd''hui. Mais sans les développeurs, il n''en serait rien. L''équipe et les personnes sont au coeur de ma sensibilité.'
+        text: 'Ma passion réside dans l''évolution technologique que nous vivons depuis une dizaine d''années. En être acteur est mon but. Mais sans les développeurs, il n''en serait rien. L''équipe et les personnes sont au coeur de ma sensibilité.'
 ---
