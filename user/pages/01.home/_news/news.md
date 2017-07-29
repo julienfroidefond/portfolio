@@ -3,21 +3,21 @@ title: Expérience
 news:
     -
         label: CALIXX
-        image: calixx.jpg
+        image: calixx-p.jpg
         title: 'Calixx est un portail d’applications en mode SASS.'
         url: '/calixx#content'
         tags:
         time:
     -
         label: WAX
-        image: wax.jpg
+        image: wax-p.jpg
         title: 'Le WAX est un événement interne à Atixnet.'
         url: '/wax#content'
         tags:
         time: 
     -
         label: ODEESA
-        image: odeesa.jpg
+        image: odeesa-p.jpg
         title: 'Odeesa est une application de gestion d’évènement avec badge.'
         url: '/odeesa#content'
         tags:
