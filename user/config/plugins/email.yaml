@@ -1,0 +1,13 @@
+enabled: true
+from: julienfroidefond@gmail.com
+to: julienfroidefond@gmail.com
+mailer:
+  engine: smtp
+  smtp:
+    server: smtp.sendgrid.net
+    port: 587
+    encryption: none
+    user: ''
+    password: ''
+  sendmail:
+    bin: '/usr/sbin/sendmail'
