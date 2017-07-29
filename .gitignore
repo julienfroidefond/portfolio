@@ -2,4 +2,3 @@ cache/*
 logs/*
 user/data/*
 composer.lock
-user/config/plugins/email.yaml
