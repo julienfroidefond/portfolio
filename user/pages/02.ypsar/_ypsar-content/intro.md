@@ -10,4 +10,8 @@ techs:
 	- SASS
 	- Bootstrap 3
 image: YPSAR.jpg
+images: 
+    - ypsar-adminevent.png
+    - ypsar-agenda.png
+    - ypsar-celectio.png
 ---
