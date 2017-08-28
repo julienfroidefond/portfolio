@@ -4,7 +4,7 @@ hidemenu: true
 testimonials:
     -
         avatar: js.png
-        quote: 'Autant back end que front-end, l''aspect non-bloquant de ce langage a un charme incontestable. Grâce à ES6, l''évolution des navigateurs, et Node, l''avenir du JS est assuré.'
+        quote: 'Autant back-end que front-end, l''aspect non-bloquant de ce langage a un charme incontestable. Grâce à ES6, l''évolution des navigateurs, et Node, l''avenir du JS est assuré.'
         author: null
     -
         avatar: angular.png
