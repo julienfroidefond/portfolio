@@ -4,7 +4,7 @@ hidemenu: true
 testimonials:
     -
         avatar: js.png
-        quote: 'Autant back end que front end, l''aspect non-bloquant de ce language a un charme incontestable. Grace à ES6, l''évolution des navigateurs, et Node, l''avenir du JS est assuré.'
+        quote: 'Autant back end que front-end, l''aspect non-bloquant de ce langage a un charme incontestable. Grâce à ES6, l''évolution des navigateurs, et Node, l''avenir du JS est assuré.'
         author: null
     -
         avatar: angular.png
@@ -40,7 +40,7 @@ testimonials:
         author: null
     -
         avatar: sass.png
-        quote: 'Le preprocessing CSS est pour moi un enjeu Front end majeur lors de développement de site d''envergure. Utiliser un framework SASS pérénise et facilite le développement par 10.'
+        quote: 'Le preprocessing CSS est pour moi un enjeu front-end majeur lors de développement de site d''envergure. Utiliser un framework SASS pérénise et facilite le développement par 10.'
         author: null
 ---
 

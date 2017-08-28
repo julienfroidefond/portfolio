@@ -45,7 +45,7 @@ person:
     '@context': 'http://schema.org/'
     '@type': person
     name: 'Julien Froidefond'
-    jobTitle: 'Front end architect'
+    jobTitle: 'Front-end architect'
     address:
         '@type': PostalAddress
         addressLocality: '2 rue Winston Churchill'
