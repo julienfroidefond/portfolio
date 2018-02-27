@@ -3,3 +3,4 @@ logs/*
 user/data/*
 composer.lock
 .idea/*
+vendor/*
