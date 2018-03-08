@@ -3,6 +3,10 @@ title: Technologies
 hidemenu: true
 testimonials:
     -
+        avatar: react.png
+        quote: 'React et react native pour la simplicité, la clareté et l'orientation modulaire. L'écosystème riche permet de faire plus loin, plus propre. Redux, redux saga, jest forment une plateforme robuste et pérenne.'
+        author: null
+    -
         avatar: js.png
         quote: 'Autant back-end que front-end, l''aspect non-bloquant de ce langage a un charme incontestable. Grâce à ES6, l''évolution des navigateurs, et Node, l''avenir du JS est assuré.'
         author: null
