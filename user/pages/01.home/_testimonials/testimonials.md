@@ -4,7 +4,7 @@ hidemenu: true
 testimonials:
     -
         avatar: react.png
-        quote: 'React et react native pour la simplicité, la clareté et l'orientation modulaire. L'écosystème riche permet de faire plus loin, plus propre. Redux, redux saga, jest forment une plateforme robuste et pérenne.'
+        quote: 'React et react native pour la simplicité, la clareté et l'orientation modulaire. L''écosystème riche permet de faire plus loin, plus propre. Redux, redux saga, jest forment une plateforme robuste et pérenne.'
         author: null
     -
         avatar: js.png
